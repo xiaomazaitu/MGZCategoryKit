@@ -1,0 +1,22 @@
+{
+  "name": "MGZCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of MGZCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaomazaitu/MGZCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaomazaitu": "18514529291@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaomazaitu/MGZCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MGZCategoryKit/Classes/**/*"
+}
